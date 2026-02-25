@@ -65,4 +65,4 @@ exit = input("Thank you for purchasing our items. Would you like an receipt ")
 if exit == "yes": 
     for index, item in enumerate(receipt):
         print(index, ":", item)
-    print(f"Your total is ${sum(price)}")
+    print(f"Your total is ${sum(price)}0")
