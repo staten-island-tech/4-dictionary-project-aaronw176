@@ -11,15 +11,15 @@ item_bakery = [
     "description": "this will end better than cookies"
     },
 
-    {"name": "pboy", 
-    "price": int("0"), 
-    "description": "he will make very good cookies"
+    {"name": "bread", 
+    "price": int("2"), 
+    "description": "very good bread"
     },
 
     {
-    "name": "cayley",
+    "name": "cereal",
     "price": int("1"),
-    "description": "she is a cereal killer you might not want this..."
+    "description": "very cool"
     }
     ]
 receipt = []
